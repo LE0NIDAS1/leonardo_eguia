@@ -62,7 +62,7 @@ theme:
     - navigation.tracking
 
 plugins:
-  - busqueda
+  - search
   - git-revision-date-localized:
       fallback_to_build_date: true
 
