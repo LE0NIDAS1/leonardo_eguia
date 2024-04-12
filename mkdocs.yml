@@ -1,9 +1,9 @@
 # Replace the text below to customize your site
-site_name: Nombre Estudiante - UTEC & Fab Lab Barcelona
+site_name: Leonardo Eguia - UTEC & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
-copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
+site_author: Leonardo Eguia
+copyright: Copyleft 2024 "Leonardo Eguia" - GNU Free Documentation License
+repo_name: 'Leonardo Eguia : Github Repo'
 site_url: https://fablabbcn.github.io/efdi-template/
 repo_url: https://github.com/fablabbcn/efdi-template
 
@@ -62,7 +62,7 @@ theme:
     - navigation.tracking
 
 plugins:
-  - search
+  - busqueda
   - git-revision-date-localized:
       fallback_to_build_date: true
 
