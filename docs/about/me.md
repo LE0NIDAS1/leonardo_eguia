@@ -1,6 +1,6 @@
 # Sobre mi
 
-<img src="../images/fotoCarnet.jpg" width="400" height="400">
+<img src="../images/foto.jpg" width="400" height="400">
 
 Me llamo Leonardo Eguia, y soy de Cerro Largo, Melo. Hace unos años, obtuve mi título en Tecnólogo en Informática en 2017, y al año siguiente, decidí seguir mi pasión por la robótica y la tecnología, así que comencé a estudiar Ingeniería en Mecatrónica en Fray Bentos. Ahora mismo, estoy en la finalización de mi tesis de ingeniería y espero graduarme pronto.
 
