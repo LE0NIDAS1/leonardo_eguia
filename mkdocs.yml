@@ -19,7 +19,7 @@ nav:
     - MD01: diseno/md01.md
   - Modulos Innovación :
     - MI01: innovacion/mi01.md
-  - Modulos Fabricacion
+  - Modulos Fabricacion :
     - FP01: fabricacion/fp01.md
   - Proyecto Integrador:
     - Ideas Iniciales: proyecto/proyecto.md
