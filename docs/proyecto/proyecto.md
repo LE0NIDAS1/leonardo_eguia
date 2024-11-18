@@ -35,6 +35,11 @@ Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerog
 
 ![](../images/proyecto/image_02.jpg)
 
+## Pruebas usando tren de engranajes 1:3
+
+![](../images/proyecto/image_03.jpg)
+
+ 
 ## Interfaz web para monitoreo de RPM y Potencia
 
 ![](../images/MT07/image_05.png)
