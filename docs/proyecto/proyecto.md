@@ -32,9 +32,6 @@ Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerog
 ![](../images/proyecto/image_02.jpg)
 
 
-<video width="640" height="360" controls>
-  <source src="../images/proyecto/video_00.mp4" type="video/mp4">
-</video>
-
+[Ver el video](../images/proyecto/video_00.mp4)
 
 
