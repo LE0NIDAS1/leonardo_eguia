@@ -32,6 +32,6 @@ Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerog
 ![](../images/proyecto/image_02.jpg)
 
 
-[Ver el video](../images/proyecto/video_00.mp4)
+[video prueba de diseño](../images/proyecto/video_00.mp4)
 
 
