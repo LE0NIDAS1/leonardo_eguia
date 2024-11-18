@@ -19,19 +19,27 @@ Este desafío es caracterizado por la carencia de una fuente de energía sosteni
 
 Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerogenerador que sea eficiente a bajas velocidades de viento, adecuándose a las condiciones típicas de Uruguay. En esta etapa inicial, se están investigando y seleccionando modelos de aerogeneradores de eje horizontal y vertical, evaluando cuál de ellos podría generar suficiente energía bajo velocidades de viento moderadas.
 
+## Pruebas con diseño de aerogenerador Liam F1
+
 ![](../images/proyecto/image_00.jpg)
-
-
-![](../images/proyecto/image_01.jpg)
 
 ![](../images/MT07/image_04.jpg)
 
+## Pruebas diseño aerogenerador Darrieus
 
-![](../images/MT07/image_05.png)
+![](../images/proyecto/image_01.jpg)
+
+[video prueba de diseño Darrieus](../images/proyecto/video_00.mp4)
+
+## Pruebas con diseño Savonius
 
 ![](../images/proyecto/image_02.jpg)
 
+## Interfaz web para monitoreo de RPM y Potencia
 
-[video prueba de diseño](../images/proyecto/video_00.mp4)
+![](../images/MT07/image_05.png)
+
+
+
 
 
