@@ -44,6 +44,16 @@ Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerog
 
 ![](../images/MT07/image_05.png)
 
+## Pruebas usando engranajes de correa 1:2.5
+
+![](../images/proyecto/image_04.png)
+
+## Impresión de soporte para sostener de ambos lados las aspas
+
+![](../images/proyecto/image_05.jpg)
+
+[video prueba de diseño Darrieus usando ventilador](../images/proyecto/video_01.mp4)
+
 
 
 
