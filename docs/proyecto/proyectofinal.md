@@ -25,8 +25,10 @@ Se diseñó un prototipo de aerogenerador capaz de generar energía bajo velocid
 El proyecto utilizó los siguientes materiales y componentes para su construcción:
 
 __Materiales para fabricación__
-* PLA (ácido poliláctico): Utilizado para la impresión 3D de las partes estructurales y mecánicas.
-* TPU (poliuretano termoplástico): Usado para la fabricación de la correa de transmisión mediante impresión 3D.
+
+- PLA (ácido poliláctico): Utilizado para la impresión 3D de las partes estructurales y mecánicas.
+
+- TPU (poliuretano termoplástico): Usado para la fabricación de la correa de transmisión mediante impresión 3D.
 
 __Componentes electrónicos__
 - Microcontrolador ESP8266: Para el control y monitoreo del sistema.
