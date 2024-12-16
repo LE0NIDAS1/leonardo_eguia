@@ -54,6 +54,9 @@ Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerog
 
 [video prueba de diseño Darrieus usando ventilador](../images/proyecto/video_01.mp4)
 
+## Pruebas de rendimiento
+
+[video prueba aerogeneradro Darrieus ](../images/proyecto/video_02.mp4)
 
 
 

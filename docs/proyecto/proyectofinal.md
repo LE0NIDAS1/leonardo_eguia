@@ -46,7 +46,7 @@ __Componentes electrónicos__
 
 Las partes y sistemas desarrollados y fabricadas son:
 
-- EstructurA: Fabricada en PLA mediante impresión 3D para soporte del aerogenerador.
+- Estructura: Fabricada en PLA mediante impresión 3D para soporte del aerogenerador.
 
 - Aspas del aerogenerador: Diseñadas y fabricadas para capturar la energía eólica.
 
