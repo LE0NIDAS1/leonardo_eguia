@@ -31,19 +31,29 @@ __Materiales para fabricación__
 - TPU (poliuretano termoplástico): Usado para la fabricación de la correa de transmisión mediante impresión 3D.
 
 __Componentes electrónicos__
+
 - Microcontrolador ESP8266: Para el control y monitoreo del sistema.
+
 - Sensor Hall: Para detectar las revoluciones del aerogenerador.
+
 - Imanes de neodimio (5x3 mm): Interactúan con el sensor Hall.
+
 - Sensor de corriente ACS712: Para medir la potencia generada.
+
 - Motores DC de impresoras (12V): Funcionan como generadores de energía.
 
 ## ¿Qué partes y sistemas se fabricaron?
 
 Las partes y sistemas desarrollados y fabricadas son:
+
 - EstructurA: Fabricada en PLA mediante impresión 3D para soporte del aerogenerador.
+
 - Aspas del aerogenerador: Diseñadas y fabricadas para capturar la energía eólica.
+
 - Engranajes personalizados: Impresos en 3D para transmitir el movimiento mecánico.
+
 - Correa de transmisión: Diseñada y fabricada en TPU mediante impresión 3D, para transferir el movimiento generado por las aspas.
+
 - Caja para componentes electrónicos: Diseñada y fabricada en PLA para alojar y proteger los componentes electrónicos.
 
 ## ¿Qué procesos se utilizaron?
@@ -51,8 +61,10 @@ Las partes y sistemas desarrollados y fabricadas son:
 Procesos aditivos (fdm): Impresión 3D de prototipos Y de componentes.
 
 ## ¿Qué preguntas se respondieron?
+
 - ¿Cuál es el diseño de aerogenerador más eficiente para bajas velocidades de viento?
 Durante el proyecto, se evaluaron varias configuraciones para optimizar el rendimiento en condiciones de viento bajo. Se diseñaron aspas con perfiles aerodinámicos específicos. Además, se implementó un sistema de transmisión con engranajes impresos en 3D que maximizan la eficiencia energética al transmitir la rotación del rotor al generador. 
+
 
 - ¿Es viable generar suficiente energía para dispositivos de bajo consumo en entornos rurales?
 
@@ -72,8 +84,11 @@ El proyecto demuestra que es posible desarrollar una solución de energía renov
 ## ¿Cuáles son los pasos a seguir?
 
 - Refinar el diseño del aerogenerador basado en los resultados iniciales.
+
 - Probar materiales alternativos que aumenten la resistencia y reduzcan el peso.
+
 - Integrar sistemas de almacenamiento de energía.
+
 - Realizar pruebas de campo para evaluar el desempeño en condiciones reales.
 
 
