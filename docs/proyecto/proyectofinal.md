@@ -44,6 +44,19 @@ __Componentes electrónicos__
 
 - 1 rodamiento 607 2RS.
 
+### Costos en pesos Uruguayos
+
+| Componente       | Precio  |
+|--------------|-------|
+| Impresión PLA (Aproximado)         | $ 300   |
+| 1 ESP8266        | $ 350  |
+| 1 Sensor Hall        | $ 50 |
+| 2 Imanes de neodimio        | $ 40 |
+| 1 Sensor de corriente ACS712        | $ 300 |
+| 1 rodamiento 607 2RS        | $ 20 |
+|--------------|-------|
+| Total      | $ 1060  |
+
 ## ¿Qué partes y sistemas se fabricaron?
 
 Las partes y sistemas desarrollados y fabricadas son:
