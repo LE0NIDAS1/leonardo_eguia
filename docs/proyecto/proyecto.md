@@ -58,6 +58,34 @@ Los primeros pasos del prototipo están enfocados en adaptar un diseño de aerog
 
 [video prueba aerogeneradro Darrieus ](../images/proyecto/video_02.mp4)
 
+## Caja electrónica
 
+![](../images/proyecto/image_06.jpg)
+
+![](../images/proyecto/image_07.jpg)
+
+Componentes utilizados:
+
+- step up MT3608 
+
+- Sensor de corriente ACS712
+
+- Microcontrolador ESP8266
+
+- Powerbank de 2000 mAh
+
+## Motores Generadores
+
+![](../images/proyecto/image_09.jpg)
+
+![](../images/proyecto/image_10.jpg)
+
+Componentes utilizados:
+
+- 2 motores DC 12 V reciclado de impresora
+
+- Sensor Efecto Hall A3144
+
+- 2 Imán de neodimio redondo 5x3mm
 
 
