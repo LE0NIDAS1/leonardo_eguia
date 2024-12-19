@@ -21,10 +21,18 @@ En esta sección se presentarán los modelos 2D y 3D elaborados para el proyecto
 
 [Diseño Onshape](https://cad.onshape.com/documents/3cde3bc212bc4d7eeb2f07b2/w/559f4a579d8bfbdd402c773a/e/5f17ad22840f9abc1e5aaca7?renderMode=0&uiState=6763c57c8d6b2f7c4be76c38)
 
+![](../images/proyecto/image_19.jpg)
+
+[Diseño Onshape](https://cad.onshape.com/documents/12dedd6300da1a8b927c157e/w/abde41ade7e0d6df723f9738/e/749a8668962f6dcd5f4a5798?renderMode=0&uiState=6763cb4ad010456458df2547)
+
 ## Programacióne en Arduino ESP8266
+
+![](../images/proyecto/image_18.jpg)
 
 [Programación Arduino](https://drive.google.com/drive/folders/1UrwENxn14EPY789HZ3EZp06HSgU1InXU?usp=sharing)
 
 ## Pagina WEB
+
+![](../images/proyecto/image_15.jpg)
 
 [Página web](https://drive.google.com/drive/folders/1nRTnmBAPsnKtNE7hwtzXoYWXcFnMxp6D?usp=sharing)
