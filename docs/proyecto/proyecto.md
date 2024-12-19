@@ -88,4 +88,25 @@ Componentes utilizados:
 
 - 2 Imán de neodimio redondo 5x3mm
 
+## Prototipo Final
+
+![](../images/proyecto/image_15.jpg)
+
+Interfaz web donde se suben los dates a traves de la esp8266, en esta web se pueden ver los datos de las revoluciones de las aspas del aerogenerador y la corriente que este genera.
+
+## Prototipo Final
+
+![](../images/proyecto/image_11.jpg)
+
+![](../images/proyecto/image_12.jpg)
+
+![](../images/proyecto/image_13.jpg)
+
+## Pruebas Finales
+
+[video prueba final encendiendo 5 LED](../images/proyecto/video_03.mp4)
+
+[video prueba final encendiendo 5 LED en Oscuridad](../images/proyecto/video_04.mp4)
+
+
 
