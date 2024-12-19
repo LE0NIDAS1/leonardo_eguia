@@ -26,7 +26,7 @@ El proyecto utilizó los siguientes materiales y componentes para su construcci�
 
 __Materiales para fabricación__
 
-- PLA (ácido poliláctico): Utilizado para la impresión 3D de las partes estructurales y mecánicas.
+- PLA (ácido poliláctico): Utilizado para la impresión 3D de las partes estructurales, palas de aerogenerador. engranes.
 
 - TPU (poliuretano termoplástico): Usado para la fabricación de la correa de transmisión mediante impresión 3D.
 
@@ -36,11 +36,13 @@ __Componentes electrónicos__
 
 - Sensor Hall: Para detectar las revoluciones del aerogenerador.
 
-- Imanes de neodimio (5x3 mm): Interactúan con el sensor Hall.
+- 2 Imanes de neodimio (5x3 mm): Interactúan con el sensor Hall.
 
 - Sensor de corriente ACS712: Para medir la potencia generada.
 
-- Motores DC de impresoras (12V): Funcionan como generadores de energía.
+- 2 Motores DC de impresoras (12V): Funcionan como generadores de energía.
+
+- 1 rodamiento 607 2RS.
 
 ## ¿Qué partes y sistemas se fabricaron?
 
@@ -68,18 +70,20 @@ Durante el proyecto, se evaluaron varias configuraciones para optimizar el rendi
 
 - ¿Es viable generar suficiente energía para dispositivos de bajo consumo en entornos rurales?
 
-La viabilidad fue confirmada mediante las pruebas prácticas. Los motores DC utilizados como generadores, junto con la optimización del diseño, demostraron ser capaces de producir energía suficiente para alimentar dispositivos de bajo consumo, como luces LED y teléfonos móviles. 
+La viabilidad fue confirmada mediante las pruebas prácticas. Los motores DC utilizados como generadores, junto con la optimización del diseño, demostraron ser capaces de producir energía de 5V y el pico de corriente fué aproximado de 100 mA, dando una Potencia de 0.5W. suficiente para alimentar dispositivos de bajo consumo, como 5 luces LED. Por lo tanto, cargar completamente una bateria de 2000 mAh con esta corrinete 100 mA puede tomar entre 20 y 24 horas, dependiendo de las condiciones y la eficiencia del sistema. 
 
 - ¿Qué materiales y configuraciones son más adecuados para estas condiciones específicas?
 
 El uso de PLA para las partes estructurales y aspas permitió una construcción ligera, fácil de fabricar y adecuada para un prototipo funcional. La fabricación de la correa en TPU garantizó flexibilidad y durabilidad en la transmisión mecánica
 
 ## ¿Qué funcionó? ¿Qué no?
+
 Funcionó la generación de energía en condiciones de viento moderado, así como la integración básica de los sistemas electrónicos.
-No funcionó algunos diseños iniciales de aspas no alcanzaron la eficiencia esperada.
+No funcionó algunos diseños iniciales de aspas, no alcanzaron la eficiencia esperada.
 
 ## ¿Cuáles son las conclusiones?
-El proyecto demuestra que es posible desarrollar una solución de energía renovable para dispositivos en zonas remotas. Sin embargo, se requiere optimizar el diseño de las aspas y la resistencia de la estructura para mejorar la eficiencia y la durabilidad del sistema.
+
+El proyecto demuestra que es posible desarrollar una solución de energía renovable para dispositivos en zonas remotas. Sin embargo, se requiere optimizar el diseño de las aspas, investigar en otros generadores electricos y la resistencia de la estructura para mejorar la eficiencia y la durabilidad del sistema.
 
 ## ¿Cuáles son los pasos a seguir?
 
@@ -90,5 +94,3 @@ El proyecto demuestra que es posible desarrollar una solución de energía renov
 - Integrar sistemas de almacenamiento de energía.
 
 - Realizar pruebas de campo para evaluar el desempeño en condiciones reales.
-
-
